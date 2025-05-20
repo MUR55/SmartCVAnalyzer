@@ -1,0 +1,342 @@
+2025-05-06 14:30:16,625 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 14:30:22,238 - INFO - \u2705 Ba\u011flant\u0131 havuzu olu\u015fturuldu.
+2025-05-06 14:31:02,848 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 15:56:12,184 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 15:56:19,067 - INFO - \u2705 Ba\u011flant\u0131 havuzu olu\u015fturuldu.
+2025-05-06 15:56:29,765 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 15:56:37,256 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 15:56:45,606 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 15:56:49,892 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 15:57:12,133 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 15:57:15,828 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 15:57:22,366 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 15:57:29,502 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:06:41,416 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:06:41,417 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:06:41,422 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:06:41,425 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:10:15,947 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:10:23,992 - ERROR - \u274c Baðlantý havuzu hatasý: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-05-06 17:10:23,992 - ERROR - Ýþ ilaný çekme hatasý: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-05-06 17:10:52,930 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:14:09,503 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:14:33,417 - ERROR - \u274c Baðlantý havuzu hatasý: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-05-06 17:14:33,417 - ERROR - Ýþ ilaný çekme hatasý: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-05-06 17:20:03,335 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:20:32,462 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:20:35,475 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:20:35,546 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:21:10,960 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:21:16,837 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:21:19,540 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:21:19,612 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:22:04,622 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:22:54,561 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:22:57,453 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:22:57,519 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:23:23,806 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:23:30,207 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:23:33,424 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:23:33,502 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:31:34,310 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:32:04,907 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:32:07,838 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:32:07,906 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:32:42,351 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:32:52,800 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:32:55,474 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:32:55,547 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:33:45,883 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:33:52,090 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:33:54,980 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:33:55,051 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:43:54,422 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:44:37,652 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:44:49,761 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:44:53,173 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:44:53,240 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-06 17:45:07,657 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:45:14,733 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-06 17:45:17,855 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:03:48,996 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:04:30,438 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:04:53,798 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:05:05,570 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:05:33,806 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:05:37,388 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:08:27,772 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:08:43,223 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:09:03,495 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:09:13,282 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:09:23,986 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:09:41,585 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:09:48,937 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:11:29,584 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:16:38,383 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:28:47,119 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:29:14,670 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:29:33,600 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:29:47,049 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:30:00,162 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:30:18,164 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:30:29,806 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:30:37,135 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:30:55,737 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:31:11,471 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:31:25,343 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:54:55,967 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:55:46,922 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:55:50,899 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:55:57,111 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:56:06,620 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:56:22,280 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:56:26,213 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:56:46,971 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:56:51,862 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:57:12,332 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:57:16,663 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:57:26,640 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:57:49,640 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:58:06,729 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 09:58:12,213 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:01:34,768 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:01:58,286 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:02:36,791 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:02:46,184 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:02:52,535 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:03:20,774 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:03:31,212 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:03:34,197 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 10:03:34,361 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 10:03:37,378 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:04:13,337 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:04:17,900 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:04:23,560 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:04:33,646 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:04:41,389 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:06:41,016 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:13:23,086 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:14:01,843 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:14:52,742 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:15:02,627 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:15:11,825 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:15:25,681 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:15:35,678 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:15:48,884 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:15:56,797 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:44:27,268 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:44:50,117 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:45:13,516 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:45:29,003 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:48:06,629 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:48:11,095 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:48:24,927 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:48:32,146 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:48:56,202 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:49:15,714 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:50:32,681 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:50:40,195 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:50:50,115 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:50:56,567 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:55:45,885 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:56:34,118 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:56:49,850 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:57:00,081 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:57:29,075 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:57:38,627 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:57:55,245 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 10:57:58,620 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 11:57:52,449 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 11:58:03,133 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:00:00,079 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:00:44,049 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:01:12,104 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:01:22,969 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:02:02,386 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:02:06,647 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:02:13,069 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:02:18,207 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:02:21,199 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:03:01,414 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:03:05,927 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:03:21,749 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:03:24,486 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 12:03:24,651 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 12:04:28,244 - INFO - Use pytorch device_name: cpu
+2025-05-07 12:04:28,244 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:04:37,650 - INFO - Use pytorch device_name: cpu
+2025-05-07 12:04:37,650 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:04:46,093 - INFO - Use pytorch device_name: cpu
+2025-05-07 12:04:46,094 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:04:59,880 - INFO - Use pytorch device_name: cpu
+2025-05-07 12:04:59,880 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:05:13,228 - INFO - Use pytorch device_name: cpu
+2025-05-07 12:05:13,228 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:05:15,791 - INFO - Use pytorch device_name: cpu
+2025-05-07 12:05:15,791 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 12:05:32,454 - INFO - Use pytorch device_name: cpu
+2025-05-07 12:05:32,454 - INFO - Load pretrained SentenceTransformer: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 13:20:48,010 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr
+2025-05-07 13:20:48,010 - WARNING - No sentence-transformers model found with name myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr. Creating a new one with mean pooling.
+2025-05-07 13:22:51,081 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:23:45,013 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:23:58,971 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:00,901 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:00,908 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:00,909 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:04,090 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:04,299 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:14,851 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:15,048 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:15,055 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:15,423 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:17,839 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:17,973 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:23,244 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:23,537 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:25,574 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:25,575 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:25,575 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:26,011 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:26,012 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:26,012 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:28,266 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:28,495 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:29,708 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:29,785 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:34,139 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:34,140 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:34,365 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:34,366 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:37,745 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:37,915 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:39,592 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:39,592 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:40,023 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:40,024 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:42,864 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:42,864 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:42,865 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:42,867 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:42,867 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:43,258 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:43,258 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:43,258 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:43,259 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:43,259 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:45,686 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:45,688 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:45,947 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:45,947 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:59,488 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:24:59,786 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:25:03,138 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:25:03,499 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:25:05,849 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:25:06,062 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:25:07,381 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:25:07,560 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:25:13,421 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:25:13,811 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 13:25:23,165 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:25:30,498 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:25:31,121 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:32:49,434 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:40:54,196 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:43:42,039 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:43:45,370 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:43:49,113 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:43:49,712 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:43:58,602 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:43:59,223 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:44:03,479 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:44:04,201 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:44:57,183 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:45:23,085 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:45:44,890 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:45:59,021 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:46:31,332 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:46:39,800 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:46:51,364 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:49:01,055 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:49:14,407 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:49:15,033 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:49:19,846 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:49:20,437 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:49:30,764 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:49:31,380 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:49:39,999 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:49:45,784 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:49:59,235 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:50:02,599 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:50:03,252 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:50:06,046 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:50:06,676 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 13:57:53,636 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 14:46:46,511 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 14:49:32,882 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:31:58,057 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:32:07,722 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:32:10,913 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:32:14,665 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:32:15,264 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:34:13,692 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:34:19,740 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:36:41,520 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:36:41,520 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:37:01,006 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:37:10,634 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:37:15,655 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:37:19,396 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:37:20,118 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:37:25,474 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:37:26,219 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-07 16:37:29,068 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-12 09:29:46,069 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-12 09:29:57,380 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-12 09:30:20,605 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-12 09:30:24,961 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-12 09:30:25,639 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-12 09:30:41,173 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-12 13:16:20,193 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 09:10:43,709 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 09:10:53,223 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:02:28,835 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:02:57,489 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:03:06,534 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:03:09,869 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:03:13,287 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:03:13,851 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:03:21,044 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:03:21,602 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:03:25,598 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:03:26,142 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:03:28,348 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:03:28,926 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:03:46,924 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:03:51,011 - INFO - Load pretrained SentenceTransformer: myenv\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:08:02,301 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:08:11,692 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:08:16,000 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:08:19,753 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:08:20,417 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:08:24,244 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:08:24,831 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:08:31,284 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:08:32,012 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:08:34,177 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:13:34,353 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:13:35,247 - ERROR - \u0130\u015f ilan\u0131 çekme hatas\u0131: no such table: job_descriptions
+2025-05-19 19:14:11,800 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:14:16,572 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:14:17,149 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:14:17,560 - ERROR - Kriter alma hatas\u0131: no such table: kriterler
+2025-05-19 19:14:17,562 - ERROR - CV çekme hatas\u0131: no such table: cvler
+2025-05-19 19:14:17,564 - ERROR - \u0130\u015f ilan\u0131 çekme hatas\u0131: no such table: job_descriptions
+2025-05-19 19:17:07,976 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:17:17,139 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:17:54,723 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:17:55,361 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:18:16,056 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:18:16,747 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
+2025-05-19 19:18:20,501 - INFO - Load pretrained SentenceTransformer: nlp\sbert_model\huggingface\hub\models--emrecan--bert-base-turkish-cased-mean-nli-stsb-tr\snapshots\c4d66371214a20c0c91a39c83351ddc24f398800
